@@ -1,33 +1,38 @@
 # voice.md
 
-This file lives at `.claude/youtube/voice.md` in the project root. Fill it in. Every skill in this pack reads it. Ten
-minutes here is worth more than any prompt you will ever write, because on YouTube you have to say
-the words out loud and a script in the wrong voice is unreadable on camera.
+This file lives at `.claude/youtube/voice.md` in the project root. Every skill in this pack reads it.
+
+**Language: every script, title, thumbnail text, description and comment reply is written in
+Ukrainian.** Never Russian, never surzhyk.
+
+## The channel
+
+Українсько-італійська кухня українки Валентини, яка живе в Італії. Переважно рецепти: українські
+страви, італійські страви і те, що виходить, коли одне зустрічається з іншим.
 
 ## Who I am talking to
 
-One person. Name them properly - not "creators", but "someone with under a thousand subs who has
-made nine videos and cannot work out why none of them break 400 views".
+Українка, яка живе за кордоном. Сумує за домашньою їжею, а в місцевому супермаркеті не знаходить
+звичних продуктів і не знає, чим їх замінити. Друга аудиторія: українці, які мріють поїхати за
+кордон і хочуть побачити, як там живуть і що там їдять.
 
 ## How I actually talk
 
-Paste the transcript of your best-performing video here, or three of them. Not what you wish you
-sounded like.
-
-## Words I never use
-
-The ones that are not mine. Be specific: "unlock", "game-changer", "dive in", "let's get into it".
+Українською. Структуровано: крок за кроком, по порядку, без зайвих відступів.
 
 ## Words I do use
 
-Your tics. The phrases that are yours. Keep them.
+Українські народні вислови, приказки і прислів'я, коли вони до речі.
+
+## Words I never use
+
+Російські слова, русизми і суржик. Жодних калькованих з російської зворотів.
 
 ## What I will not claim
 
-Numbers I cannot show, results that are not mine, tools I have not used. Write them down so the
-skills refuse them for you instead of you catching it in the edit.
+Ніколи не називати українські страви російськими. Не вигадувати цифр, історій і результатів, яких
+не було.
 
 ## My format
 
-Length, how a video opens, whether there is an intro, whether you swear, whether you appear on
-camera, what the desk looks like.
+Різна тривалість, у середньому 3-8 хвилин. Відео з рецептами.
