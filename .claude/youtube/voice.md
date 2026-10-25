@@ -1,6 +1,6 @@
 # voice.md
 
-Copy this to `~/.claude/youtube/voice.md` and fill it in. Every skill in this pack reads it. Ten
+This file lives at `.claude/youtube/voice.md` in the project root. Fill it in. Every skill in this pack reads it. Ten
 minutes here is worth more than any prompt you will ever write, because on YouTube you have to say
 the words out loud and a script in the wrong voice is unreadable on camera.
 
